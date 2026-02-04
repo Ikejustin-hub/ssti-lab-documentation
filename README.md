@@ -36,7 +36,7 @@ cd vulhub/flask/ssti
 docker compose up -d
 docker ps
 ```
-→ Confirms the Flask app is running on port 8000.
+This confirms the Flask app is running on port 8000.
 
 ### 2. Proof of Vulnerability
 Basic request
